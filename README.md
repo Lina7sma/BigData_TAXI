@@ -43,7 +43,7 @@
 ---
 
 ### 3. Accéder au Dashboard Streamlit
-- Une fois que l'état de l'exercice 4 dans Airflow est marqué comme "success" :
+- Une fois que l'état de l'exercice 5 dans Airflow est marqué comme "success" :
   - Ouvrez un navigateur et accédez à : `http://localhost:8501` pour visualiser le dashboard.
 
 ---
